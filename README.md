@@ -5,11 +5,7 @@
 | NAME | Hrishika Agrawal |
 |------|------------------|
 | ROLL NO. | 2019UGCS015R |
-|----------|--------------|
 | BRANCH | Computer Science and Engineering |
-|--------|----------------------------------|
 | SUBJECT | Compiler Design Lab Record |
-|---------|----------------------------|
 | SUBJECT CODE | CS324 |
-|--------------|-------|
 | FACULTY | Dr. Bhaskar Mondal |
