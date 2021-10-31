@@ -11,12 +11,12 @@
 | FACULTY | Dr. Bhaskar Mondal |
 
 ## Lab Work
-|Sr. No.| Description | Date | 
-|-------|-------------|------|
-|1.     | Lab 1      | 07/08/2021 |
-|1.     | Lab 2      | 13/08/2021 |
-|1.     | Lab 3     | 20/08/2021 |
-|1.     | Lab 4     | 27/08/2021 |
-|1.     | Lab 5      | 03/09/2021 |
-|1.     | Lab 6     | 10/09/2021 |
-|1.     | Lab 7     | 17/09/2021 |
+|Sr. No.| Description | Date | Folder |
+|-------|-------------|------|--------|
+|1.     | Lab 1      | 07/08/2021 | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%201) |
+|1.     | Lab 2      | 13/08/2021 | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%202) |
+|1.     | Lab 3     | 20/08/2021 | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%203) |
+|1.     | Lab 4     | 27/08/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%204) |
+|1.     | Lab 5      | 03/09/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%205) |
+|1.     | Lab 6     | 10/09/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%206) |
+|1.     | Lab 7     | 17/09/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-HrishikaAgrawal/tree/main/Lab%207) |
