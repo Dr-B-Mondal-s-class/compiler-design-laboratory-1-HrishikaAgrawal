@@ -9,3 +9,14 @@
 | SUBJECT | Compiler Design Lab Record |
 | SUBJECT CODE | CS324 |
 | FACULTY | Dr. Bhaskar Mondal |
+
+## Lab Work
+|Sr. No.| Description | Date | 
+|-------|-------------|------|
+|1.     | Lab 1      | 07/08/2021 |
+|1.     | Lab 2      | 13/08/2021 |
+|1.     | Lab 3     | 20/08/2021 |
+|1.     | Lab 4     | 27/08/2021 |
+|1.     | Lab 5      | 03/09/2021 |
+|1.     | Lab 6     | 10/09/2021 |
+|1.     | Lab 7     | 17/09/2021 |
